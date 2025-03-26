@@ -1,2 +1,2 @@
-from .core import GridRecorder
-from .interface.icrm import INode
+from .crm import CRM
+from .icrm import ICRM
